@@ -1,5 +1,20 @@
 # Nintendont Changes
 
+## v6.487
+
+Changes since v6.487:
+
+### Major Changes ###
+
+* Added support for BBA Emulation. It works just like a real BBA and works from both a USB LAN adapter and over WLAN (Wireless).
+* Nintendont supports BBA Emulation in the following titles:
+  * Mario Kart: Double Dash!!
+  * Kirby Air Ride
+  * 1080 Avalanche
+  * PSO Episode 1&2
+  * PSO Episode III
+  * Homeland
+
 ## v5.460
 
 Changes since v5.460:
